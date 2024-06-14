@@ -40,5 +40,7 @@ The assignments in this course are designed to reinforce the concepts covered in
 There was 3 onlines also on:
 1. Curve Fitting
 2. Interpolation
-3. Regression 
+3. Regression
+
+
 **And a final quiz also held.** 
