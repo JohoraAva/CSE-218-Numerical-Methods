@@ -41,4 +41,4 @@ There was 3 onlines also on:
 1. Curve Fitting
 2. Interpolation
 3. Regression 
-And a final quiz also held. 
+**And a final quiz also held.** 
